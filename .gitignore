@@ -1,0 +1,16 @@
+# Qt build artifacts
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
+debug/
+release/
+*.o
+*.obj
+
+# Qt Creator user config
+*.user
+.qtc_clangd/
+
+# Qt Creator build directories
+build/
